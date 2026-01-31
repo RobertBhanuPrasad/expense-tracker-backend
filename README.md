@@ -16,7 +16,3 @@
    npm run build
    npm start
    ```
-
-
-
-# expense-tracker-backend
