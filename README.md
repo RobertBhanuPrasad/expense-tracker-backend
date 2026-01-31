@@ -17,12 +17,6 @@
    npm start
    ```
 
-## API Endpoints
 
-- `GET /api/expenses` - List all expenses
-- `POST /api/expenses` - Add a new expense
-- `PUT /api/expenses/:id` - Update an expense
-- `DELETE /api/expenses/:id` - Delete an expense
-- `GET /api/categories` - List all categories
-- `POST /api/categories` - Add a new category
+
 # expense-tracker-backend
